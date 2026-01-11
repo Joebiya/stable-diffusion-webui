@@ -1,5 +1,5 @@
 # Stable Diffusion WebUI 本地运行指南
-
+本项目参考https://github.com/AUTOMATIC1111/stable-diffusion-webui
 ## 环境要求
 
 - Python 3.10.x（推荐 3.10.6）
@@ -75,3 +75,4 @@ http://127.0.0.1:7860
 ```
 
 权重范围为 0-1，建议从 0.6-0.8 开始调整。
+
